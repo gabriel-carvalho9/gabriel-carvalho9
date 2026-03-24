@@ -8,14 +8,14 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI e atualmente atuo como Apr
 
 ### 📱 Conecte-se comigo:
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/SEU_USER_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</p>
 
 ---
 
@@ -40,8 +40,8 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI e atualmente atuo como Apr
 ### 📊 Estatísticas do GitHub:
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_NOME_DE_USUARIO&layout=compact&langs_count=7&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-carvalho9&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-carvalho9&layout=compact&langs_count=7&theme=dark" />
 </p>
 
 ---
