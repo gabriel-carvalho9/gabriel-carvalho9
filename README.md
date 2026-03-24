@@ -2,17 +2,18 @@
 
 ### Desenvolvedor Full Stack em Formação | Aprendiz na Iochpe-Maxion
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI e atualmente atuo como Aprendiz em uma multinacional líder global, onde foco no aprendizado de tecnologias modernas de back-end, front-end e mobile.
+Desenvolvedor Full-Stack em formação, cursando Técnico em Desenvolvimento de Sistemas no SENAI.
+Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S.A., onde foco no aprendizado e aplicação de tecnologias modernas como Node.js, MySQL e Flutter em projetos de escala global.
 
 ---
 
 ### 📱 Conecte-se comigo:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-carvalho-0a0649379" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/SEU_USER_AQUI" target="_blank">
+  <a href="https://www.instagram.com/gb.carvalho9_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
