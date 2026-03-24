@@ -3,7 +3,7 @@
 ### Desenvolvedor Full Stack em Formação | Aprendiz na Iochpe-Maxion
 
 Desenvolvedor Full-Stack em formação, cursando Técnico em Desenvolvimento de Sistemas no SENAI.
-Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S.A., onde foco no aprendizado e aplicação de tecnologias modernas como Node.js, MySQL e Flutter em projetos de escala global.
+Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S.A., onde foco no aprendizado e aplicação de tecnologias modernas como Node.js, MySQL em projetos de escala global.
 
 ---
 
@@ -22,12 +22,11 @@ Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-**Front-end & Mobile**
+**Front-end**
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
 </p>
 
 **Back-end & Database**
