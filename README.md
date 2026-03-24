@@ -11,7 +11,7 @@ Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabriel-carvalho-0a0649379" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2496%2F2496097.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_2496097&docid=KctmA172LBc8KM&tbnid=4KgkAhrkW7aE-M&vet=12ahUKEwifzona3biTAxXhFLkGHe4iBtkQnPAOegQIHxAB..i&w=512&h=512&hcb=2&ved=2ahUKEwifzona3biTAxXhFLkGHe4iBtkQnPAOegQIHxAB)" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/gb.carvalho9_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
