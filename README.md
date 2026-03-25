@@ -18,6 +18,10 @@ Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S
 
 ### 🛠️ Tecnologias e Ferramentas:
 
+<p>
+<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+
 **Front-end**
 <p>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,10 +35,6 @@ Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
-**Ferramentas**
-<p>
-<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
 ---
 
 ### 📊 Estatísticas do GitHub:
