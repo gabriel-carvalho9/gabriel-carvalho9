@@ -7,7 +7,7 @@ Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S
 
 ---
 
-### 📱 Conecte-se comigo:
+### Conecte-se comigo:
 
 <p align="left">
   <a href="https://linkedin.com/in/gabriel-carvalho-0a0649379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-garofolo-94b8bb6a" height="30" width="40" /></a>
@@ -16,7 +16,7 @@ Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas:
+### Tecnologias e Ferramentas:
 
 <p>
 <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
