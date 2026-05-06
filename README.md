@@ -3,15 +3,15 @@
 ### Desenvolvedor Full Stack em Formação | Aprendiz na Iochpe-Maxion
 
 Desenvolvedor Full-Stack em formação, cursando Técnico em Desenvolvimento de Sistemas no SENAI.
-Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S.A., onde foco no aprendizado e aplicação de tecnologias modernas como Node.js, MySQL em projetos de escala global.
+Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S.A., onde foco no aprendizado e aplicação de tecnologias modernas como Node.js e MySQL.
 
 ---
 
 ### Conecte-se comigo:
 
 <p align="left">
-  <a href="https://linkedin.com/in/gabriel-carvalho-0a0649379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-garofolo-94b8bb6a" height="30" width="40" /></a>
-<a href="https://instagram.com/gb.carvalho9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasgarofolo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gabriel-carvalho-0a0649379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcarvalho" height="30" width="40" /></a><br>
+<a href="https://instagram.com/gb.carvalho9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielcarvalho" height="30" width="40" /></a>
 </p>
 
 ---
