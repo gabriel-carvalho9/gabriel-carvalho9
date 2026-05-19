@@ -10,7 +10,7 @@ Atualmente, atuo como Aprendiz de Desenvolvimento de Sistemas na Iochpe-Maxion S
 ### Conecte-se comigo:
 
 <p align="left">
-  <a href="https://linkedin.com/in/gabriel-carvalho-0a0649379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcarvalho" height="30" width="40" /></a><br>
+  <a href="https://linkedin.com/in/gabriel-carvalho-0a0649379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielcarvalho" height="30" width="40" /></a><br><br>
 <a href="https://instagram.com/gb.carvalho9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielcarvalho" height="30" width="40" /></a>
 </p>
 
